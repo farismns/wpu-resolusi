@@ -6,6 +6,10 @@ RENCANA KONTEN WPU
     ^ Vue
     ^ React
 - Struktur Data Dasar
+- Database
+  * SQL 
+  * NoSQL
+- API
 - PHP Frameworks
   ^ Laravel
 - Inteview
