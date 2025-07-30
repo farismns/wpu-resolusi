@@ -1,0 +1,8 @@
+Halo pak selamat pagi, saya Faris dari jakarta
+
+resolusi saya
+- ingin membuat website menggunakan framework react
+- belajar database
+- API
+- Security and Testing
+- kemudian deployment websitenya
